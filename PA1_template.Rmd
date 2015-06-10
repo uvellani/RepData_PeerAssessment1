@@ -5,7 +5,7 @@ output:
     keep_md: true
 ---
 
-This markdown file documents the first peer assignemnt.
+This markdown file documents the first peer assignment.
   
 ```{r setup, include=FALSE}
 #Turn off loading messages globally. 
