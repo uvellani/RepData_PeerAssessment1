@@ -1,7 +1,12 @@
 # Reproducible Research: Peer Assessment 1
 
 This markdown file documents the process and code for the first peer assessment.
-  
+
+This assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
+
+The raw data is analyzed to determine patterns of activity under various scenarios and presented in a reproducible manner. 
+
+
 
 
 First load the necessary libraries.   
